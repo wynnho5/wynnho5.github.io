@@ -1,0 +1,11 @@
+switch  element  B(10^12 G)  ThetaB  thetam  log g(cm s^-2)  logTeff(K)  E(keV)
+---------------------------------------------------------------------------------
+  1       H          0        N/A     N/A      13.6-15.0      5.5-6.7    0.03-15
+  2       He         0        N/A     N/A      13.6-14.9      5.5-6.7    0.03-15
+  6       C          0        N/A     N/A      13.6-15.3      5.9-6.6    0.01-15
+
+More models to be added as they become available.
+
+2020 Aug 31: added in Xspec partially ionized model for H.
+
+Last updated: 2020 Aug 31

@@ -1,0 +1,39 @@
+switch  element  B(10^12 G)  ThetaB  thetam  g(10^14 cm s^-2) logTeff(K)  E(keV)
+--------------------------------------------------------------------------------
+1000       H       0.01        0      N/A          2.4         5.5-6.7   0.05-10
+1060       H       0.04        0      N/A        0.4-25        5.5-6.7   0.05-10
+1085       H       0.07        0      N/A        0.4-25        5.5-6.7   0.05-10
+1100       H       0.1         0      N/A        0.4-25        5.5-6.7   0.05-10
+1170       H       0.5         0      N/A        0.4-25        5.5-6.8   0.05-10
+1185       H       0.7         0      N/A          2.4         5.5-6.8   0.05-10
+1195       H       0.9         0      N/A          2.4         5.5-6.8   0.05-10
+1200       H         1         0      N/A        0.4-25        5.5-6.8   0.05-10
+1230       H         2         0      N/A          2.4         5.5-6.8   0.05-10
+1260       H         4         0      N/A          2.4         5.5-6.8   0.05-10
+1280       H         7         0      N/A          2.4         5.5-6.8   0.05-10
+1300       H        10         0      N/A        0.4-25        5.5-6.8   0.05-10
+1330       H        20         0      N/A          2.4         5.6-6.8   0.05-10
+1350       H        30         0      N/A          2.4         5.7-6.8   0.05-10
+1211       H       1.26        0      N/A          1.6         5.5-6.8   0.05-10
+1281       H         7         0      N/A          1.6         5.5-6.8   0.05-10
+12006      C         1         0      N/A          2.4         5.8-6.9   0.05-10
+13006      C        10         0      N/A          2.4         5.8-6.9   0.05-10
+12008      O         1         0      N/A          2.4         5.8-6.9   0.05-10
+13008      O        10         0      N/A          2.4         5.8-6.9   0.05-10
+12010      Ne        1         0      N/A          2.4         5.8-6.9   0.05-10
+13010      Ne       10         0      N/A          2.4         5.8-6.9   0.05-10
+123100     H       1-1.82     0-90      0          1.6         5.5-6.8   0.09-5
+123190     H       1-1.82     0-90     90          1.6         5.5-6.8   0.09-5
+130100     H       5.5-10     0-90      0          1.6         5.5-6.8   0.09-5
+130190     H       5.5-10     0-90     90          1.6         5.5-6.8   0.09-5
+
+More models to be added as they become available.
+
+2013 Sep 12: NSMAXG replaces NSMAX
+2013 Sep 12: added models for H at B12=0.01,0.04,0.07,0.1 (g14=2.4); models are fully ionized, while partially ionized models will replace these when available.
+2015 Nov 24: partially ionized models for H at B12=0.04,0.07,0.1 (g14=0.4-25) available on request; will upload to Xspec in future.
+2016 Sep 20: added in Xspec partially ionized models for H at B12=0.04,0.07,0.1 (g14=0.4-25) and updated models for B12=1 and 10 with higher resolution energy grid and increased to logTeff=6.8.
+2021 Nov 18: partially ionized models for H at B12=0.5 (g14=0.4-25) and 0.7,0.9 (g14=2.4) available on request; will upload to Xspec in future.
+2024 Aug 22: added in Xspec partially ionized models for H at B12=0.5 (g14=0.4-25) and 0.7,0.9 (g14=2.4).
+
+Last updated: 2024 Aug 23
